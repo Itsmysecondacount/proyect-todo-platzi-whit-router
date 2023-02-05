@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/proyect-todo-platzi-whit-router/static/css/main.e13a59ac.chunk.css",
+    "main.js": "/proyect-todo-platzi-whit-router/static/js/main.45f299b8.chunk.js",
+    "main.js.map": "/proyect-todo-platzi-whit-router/static/js/main.45f299b8.chunk.js.map",
+    "runtime-main.js": "/proyect-todo-platzi-whit-router/static/js/runtime-main.8ced184b.js",
+    "runtime-main.js.map": "/proyect-todo-platzi-whit-router/static/js/runtime-main.8ced184b.js.map",
+    "static/js/2.b2658339.chunk.js": "/proyect-todo-platzi-whit-router/static/js/2.b2658339.chunk.js",
+    "static/js/2.b2658339.chunk.js.map": "/proyect-todo-platzi-whit-router/static/js/2.b2658339.chunk.js.map",
+    "index.html": "/proyect-todo-platzi-whit-router/index.html",
+    "static/css/main.e13a59ac.chunk.css.map": "/proyect-todo-platzi-whit-router/static/css/main.e13a59ac.chunk.css.map",
+    "static/js/2.b2658339.chunk.js.LICENSE.txt": "/proyect-todo-platzi-whit-router/static/js/2.b2658339.chunk.js.LICENSE.txt",
+    "static/media/check.fa4fb594.svg": "/proyect-todo-platzi-whit-router/static/media/check.fa4fb594.svg",
+    "static/media/delete.331149da.svg": "/proyect-todo-platzi-whit-router/static/media/delete.331149da.svg",
+    "static/media/edit.569363b1.svg": "/proyect-todo-platzi-whit-router/static/media/edit.569363b1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ced184b.js",
+    "static/js/2.b2658339.chunk.js",
+    "static/css/main.e13a59ac.chunk.css",
+    "static/js/main.45f299b8.chunk.js"
+  ]
+}
